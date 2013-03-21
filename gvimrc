@@ -12,5 +12,5 @@ map <F5> :edit<CR>
 set autochdir
 set autoread
 syntax on
-set foldmethod=manual
+set foldmethod=marker
 set foldmarker={{{,}}}
